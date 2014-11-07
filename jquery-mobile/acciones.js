@@ -18,13 +18,8 @@ $(document).ready(function(e) {
 	    document.addEventListener("offline",function(){
 		   escribehistoria('la app se desconecto a la red');
 	   },false);//se desconecto
-   },false;//ready device
+   },false);//ready device
 });//document
 function escribehistoria(accion){
 	$('#eHistoria').append('<li>'+accion+'</li>');
 }
-	   
-	   
-
-
-});

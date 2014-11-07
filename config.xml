@@ -7,7 +7,7 @@
 
     <!-- versionCode is optional and Android only -->
 
-    <name>Colocar nombre a la aplicacion</name>
+    <name>Datos del Dispositivo</name>
 
     <description>
         Aplicacion que muestra los datos del Dispositivo
